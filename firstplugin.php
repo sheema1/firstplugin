@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 /*
 Plugin Name: FirstPlugin
-Plugin URI: http://fyaconiello.github.com/wp-plugin-template
+Plugin URI: https://github.com/sheema1/firstplugin
 Description: A simple WordPress plugin to show pakistan standard time
 Version: 1.0
 Author: Sheema Sadia
